@@ -1,0 +1,3 @@
+/Users/bellahawkins/Desktop/c#/ActivityCenter/obj/Debug/netcoreapp2.4/ActivityCenter.csprojAssemblyReference.cache
+/Users/bellahawkins/Desktop/c#/ActivityCenter/obj/Debug/netcoreapp2.4/ActivityCenter.AssemblyInfoInputs.cache
+/Users/bellahawkins/Desktop/c#/ActivityCenter/obj/Debug/netcoreapp2.4/ActivityCenter.AssemblyInfo.cs
